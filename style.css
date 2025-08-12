@@ -34,3 +34,24 @@ p{
 img {
     height: 200px;
 }
+
+.categoria-vídeo{
+display:flex;
+    overflow:auto;
+    gap:10px:    
+}
+
+.OutrovídeossobreconstruçõesnoMINECRAFT{
+    padding-left:  20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+ .categoria-vídeo img{
+    opacity: 0.5;
+    height: 200px;
+ }
+
+.categoria-vídeo img:hover{
+    opacity: 1.0;
+    border: 3px solid brown
+}
